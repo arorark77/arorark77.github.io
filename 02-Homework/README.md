@@ -9,11 +9,13 @@ Main Objective of the project was to construct 3 page responsive website using B
 
 ## Tasks Completed
 
-Following tasks were completed as per requirements and screenshot of main page included
+Following tasks were completed as per requirements, screenshot of main page and link are included
 
     -   Built all required pages using Bootstrap framework
     -   Used semantic html elements
     -   Used appropriate header, navbar and footer components
+
+Link - [portfolio site](https://arorark77.github.io/02-Homework/index.html)
 
 Screenshot - 
 
