@@ -9,15 +9,15 @@ const randomFunc = {
 }
 
 generate.addEventListener('click', () => {	
-	const length = prompt("length between 8-128");
+	const length = prompt("Enter password length between 8-128 characters");
 	if (length < 8 || length > 128) {
-        alert("please provide length between 8-128");               
+        alert("Please provide password length between 8-128 characters");               
 	  }
 	else {
-        var hasLower = confirm("include Lower case");
-		var hasUpper = confirm("include Upper case");
-		var hasNumber = confirm("include Number");
-		var hasSymbol = confirm("include Symbol");        
+        var hasLower = confirm("Include Lower case characters?");
+		var hasUpper = confirm("Include Upper case characters?");
+		var hasNumber = confirm("Include Numbers?");
+		var hasSymbol = confirm("Include special characters?");        
     }	
 	resultEl.innerText = generatePassword(hasLower, hasUpper, hasNumber, hasSymbol, length);
 });
