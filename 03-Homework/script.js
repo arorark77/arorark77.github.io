@@ -28,6 +28,7 @@ function generatePassword(lower, upper, number, symbol, length) {
 	const typesArr = [{lower}, {upper}, {number}, {symbol}].filter(item => Object.values(item)[0]);
 		
 	if(typesCount === 0) {
+		alert("Atleast one character type is required, exiting");
 		return '';
 	}
 
