@@ -1,10 +1,10 @@
 
-<h1 align="center">Readme Generator
+<h1 align="center">Sample Readme Generator
   
 ![badge](https://img.shields.io/badge/license-ISC-brightgreen)<br />
 
 ## Description
-Generate README from user responses to various questions
+Sample Readme Generator
 
 ## Table of Contents
 - [Description](#description)
@@ -19,7 +19,7 @@ Generate README from user responses to various questions
 npm install
 
 ## Usage
-To Generate a standard Readme File
+To Generate a good readme
 
 ## License
 ![badge](https://img.shields.io/badge/license-ISC-brightgreen)
