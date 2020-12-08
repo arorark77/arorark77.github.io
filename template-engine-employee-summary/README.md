@@ -26,6 +26,7 @@ npm run test
 ## Team Page
 
 ![Team Page Generated](Develop/Assets/team_page.png)
+![gif](Develop/Assets/hwgif.gif)
 
 ## Tests
 
