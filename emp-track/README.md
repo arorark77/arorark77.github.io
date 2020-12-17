@@ -34,7 +34,7 @@ node index.js
 
 ### Working App gif
 
-![gif](Assets/employee-tracker.gif)
+![gif](Assets/emptrack.gif)
 
 ## Verification
 
