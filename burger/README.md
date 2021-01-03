@@ -22,7 +22,7 @@ Following tasks were completed as per assignment requirement, screenshot and lin
 ### Locally
 
 -   First Create Database and tables as per schema.sql
--   U-pload Sample data using seeds.sql
+-   Upload Sample data using seeds.sql
 -   Update DB connection Information with appropriate credentials
 
 Run below commands to start interacting with App
