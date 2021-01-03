@@ -7,11 +7,22 @@ li {
   .label {
     font-weight: bold;
   }
+
+  .container {
+    background-color: lightgray;  
+  }
   
   .create-update-form {
     padding: 5px;
     margin: 5px;
-    background: aqua;
+    background: grey;
+  }
+  
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
   }
   
   .form-group {
