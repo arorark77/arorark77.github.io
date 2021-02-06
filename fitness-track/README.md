@@ -38,9 +38,9 @@ Test the App and DB by verifying Documents in DB using mongoDB compass.
 
 ### Main App Page
 
-![main_page](public/assets/homepage.png)
+![main_page](Develop/public/assets/homepage.png)
 
-![Dashboard](public/assets/dashboard.png)
+![Dashboard](Develop/public/assets/dashboard.png)
 
 ## Verification
 
